@@ -1,0 +1,11 @@
+img {
+    width: 25em;
+    height: 256px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: bisque;
+}
